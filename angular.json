@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "BasemRecipes"
+  "defaultProject": "BasemRecipes",
+  "cli": {
+    "analytics": "418b9bd7-86fe-4d83-a935-ac0b5d1da53a"
+  }
 }
